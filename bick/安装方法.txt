@@ -1,0 +1,14 @@
+1、解压程序后得到bick文件夹，放到www根路径下
+
+2、先新建一个名为bick的数据库，然后导入bick.sql数据库文件
+
+3、默认数据库用户名是root,密码为空；如果你的不是，请到配置文件（bick/application/database.php）中修改成你自己的数据库用户名和密码
+
+4、首页访问路径  http://localhost/bick/public/index.php 
+
+5、后端访问路径  http://localhost/bick/public/index.php/admin  超级管理员账号 admin 密码 myadmin
+
+
+注意
+
+后端文章模块的图片上传路径。
